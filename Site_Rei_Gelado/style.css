@@ -1,0 +1,95 @@
+.mudanca{
+    height: auto;
+    width: 25%;
+    align-items: center;
+}
+.img-marceline{
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+            padding: 0;
+            margin: 0;
+            border: none;
+         
+}
+
+body {
+    background-color: #ffffff;
+    color: #00004d;
+}
+
+h4{
+    text-align: center;
+}
+
+h2{
+    color: #00004d;
+    text-align: center;
+}
+
+h1{
+    color: #00004d;
+    text-align: center;
+}
+
+h3{
+    color: #00004d;
+    text-align: center;
+}
+
+.card-mb-3{
+    background-color: #c9c9fd;
+    border-radius: 20px;
+
+}
+
+.minha-img{
+    height: 175px;
+    width: 150px;
+    align-self: center;
+}
+
+p {
+    font-size: 20px;
+    text-align: center;
+  }
+
+  
+.container-fluid {
+    background-color: #d7d7ff;
+}
+
+
+.card-mb-3{
+    align-content: center;
+}
+
+.meio {
+    width: 1000px;
+    margin: auto;
+}
+
+section {
+    background-color: #d7d7ff;
+    border-radius: 20px;
+}
+
+.centro {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .centro img {
+    margin-right: 10px;
+  }
+
+  .diminuir {
+    height: 200px;
+    width: auto;
+  }
+
+  .diminuir2 {
+    height: 150px;
+    width: auto;
+  }
